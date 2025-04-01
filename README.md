@@ -1,2 +1,2 @@
-[![Bud's GitHub stats](https://github-readme-stats.vercel.app/api?username=bud-primordium)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bud-primordium)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bud-primordium&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&width=450" alt="Bud's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bud-primordium&layout=compact&theme=buefy&hide_border=true&width=450&hide=Jupyter%20Notebook,html" /></a> |
+| ------------- | ------------- |
