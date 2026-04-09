@@ -1,9 +1,9 @@
 <table align="center">
   <tr>
     <td width="55%" align="center">
-      <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=github&theme=github-dark&preferLogin=false">
+      <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=github&theme=github-dark&preferLogin=false&Points.IndirectStars=0">
         <img
-          src="https://awesome-github-stats.azurewebsites.net/user-stats/bud-primordium?cardType=github&theme=github-dark&preferLogin=false"
+          src="https://awesome-github-stats.azurewebsites.net/user-stats/bud-primordium?cardType=github&theme=github-dark&preferLogin=false&Points.IndirectStars=0"
           alt="bud-primordium's GitHub Stats"
           width="100%"
           style="display:block;"
